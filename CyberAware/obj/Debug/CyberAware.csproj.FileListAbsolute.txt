@@ -2,9 +2,10 @@ C:\Users\rubse\source\repos\CyberAware\CyberAware\bin\Debug\CyberAware.exe.confi
 C:\Users\rubse\source\repos\CyberAware\CyberAware\bin\Debug\CyberAware.exe
 C:\Users\rubse\source\repos\CyberAware\CyberAware\bin\Debug\CyberAware.pdb
 C:\Users\rubse\source\repos\CyberAware\CyberAware\obj\Debug\CyberAware.csproj.AssemblyReference.cache
-C:\Users\rubse\source\repos\CyberAware\CyberAware\obj\Debug\CyberAware.Form1.resources
 C:\Users\rubse\source\repos\CyberAware\CyberAware\obj\Debug\CyberAware.Properties.Resources.resources
 C:\Users\rubse\source\repos\CyberAware\CyberAware\obj\Debug\CyberAware.csproj.GenerateResource.cache
 C:\Users\rubse\source\repos\CyberAware\CyberAware\obj\Debug\CyberAware.csproj.CoreCompileInputs.cache
 C:\Users\rubse\source\repos\CyberAware\CyberAware\obj\Debug\CyberAware.exe
 C:\Users\rubse\source\repos\CyberAware\CyberAware\obj\Debug\CyberAware.pdb
+C:\Users\rubse\source\repos\CyberAware\CyberAware\obj\Debug\CyberAware.Bienvenida.resources
+C:\Users\rubse\source\repos\CyberAware\CyberAware\obj\Debug\CyberAware.Pregunta.resources
