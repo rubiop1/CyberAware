@@ -33,7 +33,7 @@ namespace CyberAware
                 Bienvenida.ActiveForm.Hide();
                 Pregunta ventana = new Pregunta();
                 //ventana.Actualizar_pregunta("Pregunta...", "opt1", "Opt2", "opt3", "explicacion");
-
+                ventana.Actualizar_pregunta(1);
                 ventana.Show();
             }
         }
